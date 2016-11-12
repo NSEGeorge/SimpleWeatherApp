@@ -3,4 +3,4 @@ The third project on VKU
 
 Current Location
 
-![Current](Images/Current.png)
+![Current](Images/Weather.png)
